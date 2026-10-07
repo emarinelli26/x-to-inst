@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X to Insta</string>
+    <string name="url_hint">Pega el enlace del post de X</string>
+    <string name="prepare">Preparar video</string>
+    <string name="share_reel">Compartir como Reel</string>
+    <string name="share_story">Compartir como historia</string>
+    <string name="status_idle">Pega un enlace o comparte un post desde X.</string>
+    <string name="status_fetching">Leyendo el post…</string>
+    <string name="status_downloading">Bajando el video…</string>
+    <string name="status_composing">Armando el video vertical…</string>
+    <string name="status_ready">Listo. Elige dónde compartirlo.</string>
+    <string name="error_bad_link">No encontré un enlace de X válido.</string>
+    <string name="error_no_video">Este post no tiene video.</string>
+    <string name="error_generic">Algo falló: %1$s</string>
+</resources>
